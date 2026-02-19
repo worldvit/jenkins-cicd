@@ -1,1 +1,2 @@
-# jenkins-cicd
+# Jenkins CI/CD 완전 자동화 프로젝트
+이 프로젝트는 GitHub Webhook을 통해 코드가 푸시되면 자동으로 도커 이미지로 빌드되고 배포됩니다.
